@@ -15,7 +15,7 @@ Full-Stack Software Engineer • Backend Systems • Cloud • APIs
 
   <!-- Indeed (PNG version) -->
   <a href="https://profile.indeed.com/p/leod-wp087hl">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Indeed_logo.svg/64px-Indeed_logo.svg.png" width="40" height="40" style="vertical-align:middle;margin-right:10px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Indeed_logo.svg" width="150" height="150" style="vertical-align:middle;margin-right:10px"/>
   </a>
 
   <br />
