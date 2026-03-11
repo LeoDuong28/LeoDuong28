@@ -18,8 +18,11 @@
 
 ### 🙋‍♂️ About Me
 
-I wear many hats depending on what is required of me although, I am first and foremost, a fast learner, a hard worker and a Passionate Full-Stack **Software Engineer** focused on building scalable backend systems, APIs, and modern full-stack applications.  
-I enjoy learning new technologies and solving real-world engineering problems.
+💻 &nbsp;I wear many hats depending on what is required of me although, I am first and foremost, a fast learner, a hard worker and a Passionate Full-Stack **Software Engineer** in United States.  
+🚀 &nbsp;Experienced with building scalable full-stack applications, cloud infrastructure, and API design.  
+🎓 &nbsp;Graduated from UC San Diego with a Bachelor of Science degree in Mathematics and Computer Science.
+🎮 &nbsp;I enjoy building gundam models, playing video games and breakdancing.
+
 
 <br />
 
