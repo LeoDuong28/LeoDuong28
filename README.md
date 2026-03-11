@@ -1,27 +1,41 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Leo Duong
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Leo Duong
+</h1>
 
+<p align="center">
+Full-Stack Software Engineer • Backend Systems • Cloud • APIs
+</p>
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/leo-duong2807/">
-<img src="https://img.shields.io/badge/LinkedIn-Leo%20Duong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/leo-duong2807/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="vertical-align:middle;margin-right:10px"/>
+  </a>
 
-<a href="https://profile.indeed.com/p/leod-wp087hl">
-<img src="https://img.shields.io/badge/Indeed-Leo%20Duong-003A9B?style=for-the-badge&logo=indeed&logoColor=white"/>
-</a>
+  <!-- Indeed (PNG version) -->
+  <a href="https://profile.indeed.com/p/leod-wp087hl">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Indeed_logo.svg/64px-Indeed_logo.svg.png" width="40" height="40" style="vertical-align:middle;margin-right:10px"/>
+  </a>
+
+  <br />
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=LeoDuong28&style=for-the-badge&color=blue" alt="Profile Views" style="vertical-align:middle;margin-right:10px"/>
 
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=LeoDuong28)
 
+<br />
 
-### 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 💻 &nbsp;I wear many hats depending on what is required of me although, I am first and foremost, a fast learner, a hard worker and a Passionate Full-Stack **Software Engineer** in United States.  
-🚀 &nbsp;Experienced with building scalable full-stack applications, cloud infrastructure, and API design.  
-🎓 &nbsp;Graduated from UC San Diego with a Bachelor of Science degree in Mathematics and Computer Science.
-🎮 &nbsp;I enjoy building gundam models, playing video games and breakdancing.
+
+🚀 &nbsp;Experienced with building **scalable full-stack applications, cloud infrastructure, and API design**.  
+
+🎓 &nbsp;Graduated from **UC San Diego** with a Bachelor of Science in **Mathematics and Computer Science**.  
+
+🎮 &nbsp;I enjoy **building gundam models, playing video games and breakdancing.**
 
 
 <br />
