@@ -99,7 +99,7 @@ Real-time messaging platform using **WebSockets, Redis caching, JWT authenticati
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoDuong28&theme=github-dark&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LeoDuong28&layout=compact&theme=dark" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDuong28&layout=compact&theme=github_dark" height="165"/>
 
