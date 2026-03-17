@@ -71,6 +71,7 @@ Full-Stack Software Engineer • Backend Systems • Cloud • APIs
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <br />
 
